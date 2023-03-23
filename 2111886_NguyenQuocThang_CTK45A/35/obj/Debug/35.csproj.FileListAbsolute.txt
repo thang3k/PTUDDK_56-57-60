@@ -1,0 +1,11 @@
+D:\down\ptuddk\2111886_NguyenQuocThang_CTK45A\35\bin\Debug\35.exe.config
+D:\down\ptuddk\2111886_NguyenQuocThang_CTK45A\35\bin\Debug\35.exe
+D:\down\ptuddk\2111886_NguyenQuocThang_CTK45A\35\bin\Debug\35.pdb
+D:\down\ptuddk\2111886_NguyenQuocThang_CTK45A\35\obj\Debug\35.csproj.AssemblyReference.cache
+D:\down\ptuddk\2111886_NguyenQuocThang_CTK45A\35\obj\Debug\35.csproj.SuggestedBindingRedirects.cache
+D:\down\ptuddk\2111886_NguyenQuocThang_CTK45A\35\obj\Debug\_35.frmLinkLabel.resources
+D:\down\ptuddk\2111886_NguyenQuocThang_CTK45A\35\obj\Debug\_35.Properties.Resources.resources
+D:\down\ptuddk\2111886_NguyenQuocThang_CTK45A\35\obj\Debug\35.csproj.GenerateResource.cache
+D:\down\ptuddk\2111886_NguyenQuocThang_CTK45A\35\obj\Debug\35.csproj.CoreCompileInputs.cache
+D:\down\ptuddk\2111886_NguyenQuocThang_CTK45A\35\obj\Debug\35.exe
+D:\down\ptuddk\2111886_NguyenQuocThang_CTK45A\35\obj\Debug\35.pdb

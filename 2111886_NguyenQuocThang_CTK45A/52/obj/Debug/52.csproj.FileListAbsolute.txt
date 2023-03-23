@@ -1,0 +1,11 @@
+C:\Users\soju\Downloads\2111885_TranPhuongThai\52\bin\Debug\52.exe.config
+C:\Users\soju\Downloads\2111885_TranPhuongThai\52\bin\Debug\52.exe
+C:\Users\soju\Downloads\2111885_TranPhuongThai\52\bin\Debug\52.pdb
+C:\Users\soju\Downloads\2111885_TranPhuongThai\52\obj\Debug\52.csproj.AssemblyReference.cache
+C:\Users\soju\Downloads\2111885_TranPhuongThai\52\obj\Debug\52.csproj.SuggestedBindingRedirects.cache
+C:\Users\soju\Downloads\2111885_TranPhuongThai\52\obj\Debug\_52.ListBoxs.resources
+C:\Users\soju\Downloads\2111885_TranPhuongThai\52\obj\Debug\_52.Properties.Resources.resources
+C:\Users\soju\Downloads\2111885_TranPhuongThai\52\obj\Debug\52.csproj.GenerateResource.cache
+C:\Users\soju\Downloads\2111885_TranPhuongThai\52\obj\Debug\52.csproj.CoreCompileInputs.cache
+C:\Users\soju\Downloads\2111885_TranPhuongThai\52\obj\Debug\52.exe
+C:\Users\soju\Downloads\2111885_TranPhuongThai\52\obj\Debug\52.pdb

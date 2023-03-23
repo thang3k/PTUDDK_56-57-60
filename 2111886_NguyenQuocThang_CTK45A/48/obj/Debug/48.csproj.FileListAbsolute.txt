@@ -1,0 +1,11 @@
+C:\Users\soju\Downloads\2111885_TranPhuongThai\48\bin\Debug\48.exe.config
+C:\Users\soju\Downloads\2111885_TranPhuongThai\48\bin\Debug\48.exe
+C:\Users\soju\Downloads\2111885_TranPhuongThai\48\bin\Debug\48.pdb
+C:\Users\soju\Downloads\2111885_TranPhuongThai\48\obj\Debug\48.csproj.AssemblyReference.cache
+C:\Users\soju\Downloads\2111885_TranPhuongThai\48\obj\Debug\48.csproj.SuggestedBindingRedirects.cache
+C:\Users\soju\Downloads\2111885_TranPhuongThai\48\obj\Debug\_48.frmDemoComboBox.resources
+C:\Users\soju\Downloads\2111885_TranPhuongThai\48\obj\Debug\_48.Properties.Resources.resources
+C:\Users\soju\Downloads\2111885_TranPhuongThai\48\obj\Debug\48.csproj.GenerateResource.cache
+C:\Users\soju\Downloads\2111885_TranPhuongThai\48\obj\Debug\48.csproj.CoreCompileInputs.cache
+C:\Users\soju\Downloads\2111885_TranPhuongThai\48\obj\Debug\48.exe
+C:\Users\soju\Downloads\2111885_TranPhuongThai\48\obj\Debug\48.pdb
